@@ -19,6 +19,16 @@
 		7E8D99EF1F8B6A2700776463 /* techRollBack.gif in Resources */ = {isa = PBXBuildFile; fileRef = 7E8D99ED1F8B6A2300776463 /* techRollBack.gif */; };
 		7E8D99F01F8B6A2900776463 /* techRollFront.gif in Resources */ = {isa = PBXBuildFile; fileRef = 7E8D99EB1F8B6A2200776463 /* techRollFront.gif */; };
 		7E8D99F11F8B6A2B00776463 /* techRollPlace.gif in Resources */ = {isa = PBXBuildFile; fileRef = 7E8D99EA1F8B6A2200776463 /* techRollPlace.gif */; };
+		7ED370381F8F60D500750510 /* background.png in Resources */ = {isa = PBXBuildFile; fileRef = 7ED370371F8F60CC00750510 /* background.png */; };
+		7ED3703C1F8F61BC00750510 /* Help2.png in Resources */ = {isa = PBXBuildFile; fileRef = 7ED3703B1F8F617E00750510 /* Help2.png */; };
+		7ED370461F8F66F100750510 /* title.png in Resources */ = {isa = PBXBuildFile; fileRef = 7ED370451F8F66EE00750510 /* title.png */; };
+		7ED370491F8F6D2300750510 /* Settings2.png in Resources */ = {isa = PBXBuildFile; fileRef = 7ED370481F8F6D1E00750510 /* Settings2.png */; };
+		7ED3704A1F8F6D2500750510 /* start game2.png in Resources */ = {isa = PBXBuildFile; fileRef = 7ED370471F8F6D1D00750510 /* start game2.png */; };
+		7ED3704C1F8F703700750510 /* Untitled-1.png in Resources */ = {isa = PBXBuildFile; fileRef = 7ED3704B1F8F703300750510 /* Untitled-1.png */; };
+		7ED370511F8F71D900750510 /* down.png in Resources */ = {isa = PBXBuildFile; fileRef = 7ED3704D1F8F71D300750510 /* down.png */; };
+		7ED370521F8F71DC00750510 /* left.png in Resources */ = {isa = PBXBuildFile; fileRef = 7ED3704F1F8F71D400750510 /* left.png */; };
+		7ED370531F8F71DE00750510 /* right.png in Resources */ = {isa = PBXBuildFile; fileRef = 7ED3704E1F8F71D300750510 /* right.png */; };
+		7ED370541F8F71E000750510 /* up.png in Resources */ = {isa = PBXBuildFile; fileRef = 7ED370501F8F71D500750510 /* up.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -36,6 +46,16 @@
 		7E8D99EB1F8B6A2200776463 /* techRollFront.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; name = techRollFront.gif; path = "Tech Chase/techRollFront.gif"; sourceTree = "<group>"; };
 		7E8D99EC1F8B6A2200776463 /* techNone.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; name = techNone.gif; path = "Tech Chase/techNone.gif"; sourceTree = "<group>"; };
 		7E8D99ED1F8B6A2300776463 /* techRollBack.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; name = techRollBack.gif; path = "Tech Chase/techRollBack.gif"; sourceTree = "<group>"; };
+		7ED370371F8F60CC00750510 /* background.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = background.png; sourceTree = "<group>"; };
+		7ED3703B1F8F617E00750510 /* Help2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Help2.png; sourceTree = "<group>"; };
+		7ED370451F8F66EE00750510 /* title.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = title.png; sourceTree = "<group>"; };
+		7ED370471F8F6D1D00750510 /* start game2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "start game2.png"; sourceTree = "<group>"; };
+		7ED370481F8F6D1E00750510 /* Settings2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Settings2.png; sourceTree = "<group>"; };
+		7ED3704B1F8F703300750510 /* Untitled-1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Untitled-1.png"; sourceTree = "<group>"; };
+		7ED3704D1F8F71D300750510 /* down.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = down.png; sourceTree = "<group>"; };
+		7ED3704E1F8F71D300750510 /* right.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = right.png; sourceTree = "<group>"; };
+		7ED3704F1F8F71D400750510 /* left.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = left.png; sourceTree = "<group>"; };
+		7ED370501F8F71D500750510 /* up.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = up.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +78,16 @@
 				7E8D99ED1F8B6A2300776463 /* techRollBack.gif */,
 				7E8D99EB1F8B6A2200776463 /* techRollFront.gif */,
 				7E8D99EA1F8B6A2200776463 /* techRollPlace.gif */,
+				7ED370371F8F60CC00750510 /* background.png */,
+				7ED3703B1F8F617E00750510 /* Help2.png */,
+				7ED370451F8F66EE00750510 /* title.png */,
+				7ED370481F8F6D1E00750510 /* Settings2.png */,
+				7ED370471F8F6D1D00750510 /* start game2.png */,
+				7ED3704B1F8F703300750510 /* Untitled-1.png */,
+				7ED3704D1F8F71D300750510 /* down.png */,
+				7ED3704F1F8F71D400750510 /* left.png */,
+				7ED3704E1F8F71D300750510 /* right.png */,
+				7ED370501F8F71D500750510 /* up.png */,
 			);
 			sourceTree = "<group>";
 		};
@@ -146,11 +176,21 @@
 			files = (
 				7E3B1A4B1F8B4926004A2ABC /* LaunchScreen.storyboard in Resources */,
 				7E8D99EE1F8B6A2500776463 /* techNone.gif in Resources */,
+				7ED370461F8F66F100750510 /* title.png in Resources */,
 				7E8D99EF1F8B6A2700776463 /* techRollBack.gif in Resources */,
+				7ED3704A1F8F6D2500750510 /* start game2.png in Resources */,
 				7E3B1A671F8B5AD6004A2ABC /* mugen.gif in Resources */,
+				7ED370541F8F71E000750510 /* up.png in Resources */,
+				7ED370521F8F71DC00750510 /* left.png in Resources */,
+				7ED3704C1F8F703700750510 /* Untitled-1.png in Resources */,
 				7E3B1A481F8B4926004A2ABC /* Assets.xcassets in Resources */,
 				7E8D99F01F8B6A2900776463 /* techRollFront.gif in Resources */,
 				7E3B1A461F8B4926004A2ABC /* Main.storyboard in Resources */,
+				7ED3703C1F8F61BC00750510 /* Help2.png in Resources */,
+				7ED370511F8F71D900750510 /* down.png in Resources */,
+				7ED370491F8F6D2300750510 /* Settings2.png in Resources */,
+				7ED370531F8F71DE00750510 /* right.png in Resources */,
+				7ED370381F8F60D500750510 /* background.png in Resources */,
 				7E8D99F11F8B6A2B00776463 /* techRollPlace.gif in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

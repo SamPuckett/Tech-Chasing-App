@@ -13,34 +13,34 @@ class SecondViewController: UIViewController {
     @IBOutlet weak var gameViewLabel: UILabel!
     @IBAction func upButton(_ sender: Any) {
         if counter == 3 {
-            gameViewLabel.text = "correct UP!"
+            gameViewLabel.text = "You're Correct!"
         }
         else {
-            gameViewLabel.text = "wrong UP!"
+            gameViewLabel.text = "You're Wrong, Try Again!"
         }
     }
     @IBAction func downButton(_ sender: Any) {
         if counter == 0 {
-            gameViewLabel.text = "Correct Down!"
+            gameViewLabel.text = "You're Correct!"
         }
         else {
-            gameViewLabel.text = "Wrong Down!"
+            gameViewLabel.text = "You're Wrong, Try Again!"
         }
     }
     @IBAction func leftButton(_ sender: Any) {
         if counter == 1 {
-            gameViewLabel.text = "Correct Left!"
+            gameViewLabel.text = "You're Correct!"
         }
         else {
-            gameViewLabel.text = "Wrong Left!"
+            gameViewLabel.text = "You're Wrong, Try Again!"
         }
     }
     @IBAction func rightButton(_ sender: Any) {
         if counter == 2 {
-            gameViewLabel.text = "correct Right!"
+            gameViewLabel.text = "You're Correct!"
         }
         else {
-            gameViewLabel.text = "wrong Right!"
+            gameViewLabel.text = "You're Wrong, Try Again!"
         }
     }
     
